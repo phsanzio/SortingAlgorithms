@@ -17,6 +17,6 @@ def partition(lista, start, ends):
   return i
 
 
-lista = [7, 5, 4, 2 ,1, 8, 3]
+lista = [7, 5, 4, 2 ,1, 8, 3, 6]
 quicksort(lista)
 print(lista)
